@@ -1,5 +1,5 @@
 # Pokémon Jetpack Compose
-##Ejemplo de App Android con Kotlin, Jetpack Compose, Retrofit y consumo de la API REST de Pokémon
+## Ejemplo de App Android con Kotlin, Jetpack Compose, Retrofit y consumo de la API REST de Pokémon
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.6-purple?longCache=true&style=popout-square)](https://kotlinlang.org)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-2021.3.1-blue.svg?longCache=true&style=popout-square)](https://developer.android.com/studio)
